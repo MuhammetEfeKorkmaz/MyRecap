@@ -1,0 +1,9 @@
+﻿1-) Package Manager Console açılır.
+2-) Add-Migration m1  (komutu db de migration oluşturur.)
+3-) Update-Database
+
+
+
+
+
+https://www.entityframeworktutorial.net/efcore/pmc-commands-for-ef-core-migration.aspx
